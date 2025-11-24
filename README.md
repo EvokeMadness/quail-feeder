@@ -19,7 +19,7 @@ A quail feeder designed to be customized by the number of units needed. Simply p
 
 - Supports: None
 - Infill: 5%
-- Brim: false
+- Brim: true
 
 # Bill of Materials
 
