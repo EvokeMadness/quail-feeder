@@ -5,7 +5,7 @@
 
 ## Summary
 
-A quail feeder designed to be customized by the number of units needed. 
+A quail feeder designed to be customized by the number of units needed.
 
 * * *
 
