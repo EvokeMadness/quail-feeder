@@ -5,7 +5,7 @@
 
 ## Summary
 
-A quail feeder designed to be customized by the number of units needed. Simply print in a weather resistant material, remove one or both sides using wire cutters, and join using glue or plastic weld.
+A quail feeder designed to be customized by the number of units needed. 
 
 * * *
 
@@ -19,30 +19,27 @@ A quail feeder designed to be customized by the number of units needed. Simply p
 
 - Supports: None
 - Infill: 5%
-- Brim: true
+- Brim: (See Additional Information below)
 
 # Bill of Materials
 
-- 
+- Permanent adhesive
 
 # Assembly
 
-- 
+- Remove one or both sides using wire cutters, and join using permanent adhesive.
 
 # Additional Information
 
 - **Notes**
-	- 
+	- For best results, print using weather resistant filament.
+	- You may be able to use a soldering iron to join the units without adhesive.
 - **Troubleshooting**
-	- 
-- **Warnings**
-	- 
+	- In the case that the corners of the unit warp during printing, print using a brim.
 
-# A Note from the Designer
+* * *
 
-
-
-## Preview
+# Previews
 
 ![](assets/preview.png)
 
