@@ -40,7 +40,7 @@ A quail feeder designed to be customized by the number of units needed. Simply p
 
 # A Note from the Designer
 
-* * *
+
 
 ## Preview
 
