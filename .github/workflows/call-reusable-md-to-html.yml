@@ -1,6 +1,10 @@
 name: call-reusable-md-to-html
 
-on: push
+on:
+    push
+
+permissions:
+    contents: write
 
 jobs:
   call-reusable-md-to-html:
