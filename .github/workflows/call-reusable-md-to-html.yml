@@ -1,0 +1,7 @@
+name: call-reusable-md-to-html
+
+on: push
+
+jobs:
+  call-reusable-md-to-html:
+    uses: EvokeMadness/workflow-templates/.github/workflows/reusable-md-to-html.yml@main
